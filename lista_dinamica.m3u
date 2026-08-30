@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal1" group-title="Deportes", ESPN Premium
+http://dctv.pro:8080/live/76586484/43867774/7492.ts
+#EXTINF:-1 tvg-id="Canal2" group-title="Cine", HBO Premium
+http://dctv.pro:8080/live/76586484/43867774/1054.ts
